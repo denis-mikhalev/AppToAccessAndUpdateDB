@@ -12,11 +12,13 @@ A Windows desktop CRUD application built with **WPF** and **ADO.NET** for managi
 
 ## Screenshots
 
-> _Add screenshots to a `screenshots/` folder and replace the paths below._
+| Login | Main View |
+|-------|-----------|
+| ![Login](screenshots/login.png) | ![Main](screenshots/main.png) |
 
-| Login | Main View | Add / Edit |
-|-------|-----------|------------|
-| ![Login](screenshots/login.png) | ![Main](screenshots/main.png) | ![AddEdit](screenshots/addedit.png) |
+| Add / Edit | Delete |
+|------------|--------|
+| ![AddEdit](screenshots/addedit.png) | ![Delete](screenshots/delete.png) |
 
 ---
 
